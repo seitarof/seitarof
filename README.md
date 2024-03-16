@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=go,gcp,aws,mysql,docker,k8s,github,vscode,html,css,js)](https://skillicons.dev)
 
 ### 📚 Learning
-[![My Skills](https://skillicons.dev/icons?i=ts,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,react,nextjs,cloudflare,bun)](https://skillicons.dev)
 
 ## 📊 Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seitarof&theme=onedark)
