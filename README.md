@@ -13,10 +13,6 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=seitarof&theme=onedark&show_icons=ture" />
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=seitarof&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Contribution
 [![](https://avatars.githubusercontent.com/u/140182603?s=48&v=4)](https://github.com/biomejs/biome)
 [![](https://avatars.githubusercontent.com/u/62555443?s=48&v=4)](https://github.com/pipe-cd/pipecd)
